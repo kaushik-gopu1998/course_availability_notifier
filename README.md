@@ -1,1 +1,1 @@
-# course_availability_tracker
+# course_availability_notifier
